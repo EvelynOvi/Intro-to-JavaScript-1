@@ -1,1 +1,1 @@
-A javascript code that prints out your name, height, and country.
+A javascript code that prints out my name, height, and country.
